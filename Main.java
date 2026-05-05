@@ -24,6 +24,6 @@ public class Main {
             System.out.println("ACESSO NEGADO para " + nome);
         }
     }
-}
+    
 
     
